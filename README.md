@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mayurpawar
 - 👀 I’m interested in coding challenges.
-- 🌱 I’m currently learning ML/Data Science.
+- 🌱 ML/Data Science enthusiast
 - 💞️ I’m looking to collaborate on python projects.
 - 📫 Reach out to me on mayurpawar@gmail.com
 
